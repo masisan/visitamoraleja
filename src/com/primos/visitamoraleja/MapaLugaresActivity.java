@@ -26,7 +26,7 @@ import com.google.android.gms.maps.model.MarkerOptions;
  */
 public class MapaLugaresActivity extends FragmentActivity {
 	GoogleMap map;
-	// Cursor cursor;
+	
 	String id;
 
 	@Override
